@@ -1,11 +1,49 @@
-
 <h1 align="center">Hi 👋, I'm MehmetUZER</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzer817&label=Profile%20views&color=0e75b6&style=flat" alt="uzer817" /> </p>
 
-- 📫 How to reach me **uzer817@gmail.com**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+🔭 I’m interested in especially React.js
+
+🌱 I have been working and learning React.js, React-Redux for 6 months
+
+👨‍💻 I aim to proceed my career being a Frontend Develepor and React Developer 
+
+📝 Passionate learner, self-development, fond of innovation, teamwork spirit therefore I enthusiasm in this field
+
+📄 Believing teamwork produce of high quality works and keeps you constently up-to-date
+
+👨‍ Looking forward to working with team
+
+⚡ HTML5
+
+⚡ CSS3
+
+⚡ SASS (SCSS)
+
+⚡ JavaScript
+
+⚡ React
+
+⚡ Redux
+
+⚡ Redux Toolkit
+
+⚡ TypeScript
+
+⚡ Boostrap
+
+⚡ Material UI
+
+⚡ Git - Github
+
+⚡ Json Server
+
+
+
+📫 How to reach me **uzer817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +58,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzer817&show_icons=true&locale=en" alt="uzer817" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzer817&" alt="uzer817" /></p>
+
